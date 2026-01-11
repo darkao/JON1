@@ -1,6 +1,7 @@
 # JON1 Secure File Encryptor
 
 Advanced and secure file encryption CLI tool based on **ChaCha20-Poly1305**.
+()
 
 ---
 
@@ -9,6 +10,34 @@ Advanced and secure file encryption CLI tool based on **ChaCha20-Poly1305**.
 ### 📌 Overview
 
 **JON1** is a secure, streaming file encryption utility designed to safely encrypt and decrypt files or entire directories using modern authenticated encryption.
+
+## ⚠️ Disclaimer / Sorumluluk Reddi
+
+### 🇬🇧 English
+This software is provided **"as is"**, without warranty of any kind, express or implied. The author shall not be held liable for any damages, data loss, misuse, or legal consequences arising from the use of this software.
+
+This tool is intended **for educational, personal backup, and legitimate security purposes only**. You are solely responsible for ensuring that your use of this software complies with all applicable local, national, and international laws.
+
+By using this software, you acknowledge that **cryptographic software can permanently destroy data if misused**, including but not limited to:
+- Forgetting or losing the password
+- Interrupting the encryption/decryption process
+- Modifying encrypted files
+
+Use at your own risk.
+
+---
+
+### 🇹🇷 Türkçe
+Bu yazılım **"olduğu gibi"** sunulmaktadır; açık veya zımni hiçbir garanti verilmez. Yazılımın kullanımından doğabilecek veri kaybı, yanlış kullanım, hukuki sonuçlar veya diğer zararlardan geliştirici sorumlu tutulamaz.
+
+Bu araç **yalnızca eğitim, kişisel yedekleme ve meşru güvenlik amaçları** için tasarlanmıştır. Yazılımın kullanımının yürürlükteki yerel, ulusal ve uluslararası yasalara uygunluğundan tamamen kullanıcı sorumludur.
+
+Bu yazılımı kullanarak, **kriptografik araçların hatalı kullanım durumunda verileri kalıcı olarak erişilemez hale getirebileceğini** kabul etmiş olursunuz. Buna aşağıdakiler dahildir ancak bunlarla sınırlı değildir:
+- Şifrenin unutulması veya kaybedilmesi
+- Şifreleme/çözme işleminin yarıda kesilmesi
+- Şifreli dosyaların değiştirilmesi
+
+Tüm risk kullanıcıya aittir.
 
 Key goals:
 
